@@ -7,7 +7,7 @@
 Ce projet implémente différentes variantes d'Autoencodeurs Variationnels (VAEs) avec une interface utilisateur Streamlit permettant de découvrir les VAEs en modifiant facilement les hyperparamètres.
 
 ![App](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
-Lien de l'application : [Variational AutoEncoder Explorer](https://lylianchallier-vae.streamlit.app/) 
+
 
 ## 📋 Table des Matières
 
@@ -55,7 +55,7 @@ Pour avoir une idée des images que vous pouvez obtenir voici les résutats d'un
 
 ```bash 
 # Cloner le repository
-git clone https://github.com/LylianChallier/VAEs.git
+git clone https://github.com/MV-13/Master-2-Variational-Auto-Encoder
 cd VAEs
 
 # Créer et activer un environnement virtuel (optionnel)
@@ -172,3 +172,4 @@ Les contributions sont les bienvenues! Pour contribuer:
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 - [Simple and Effective VAE Training with Calibrated Decoders](https://orybkin.github.io/sigma-vae/)
+
