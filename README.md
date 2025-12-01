@@ -6,6 +6,8 @@
 
 Ce projet implémente différentes variantes d'Autoencodeurs Variationnels (VAEs) avec une interface utilisateur Streamlit permettant de découvrir les VAEs en modifiant facilement les hyperparamètres.
 
+Lien du streamlit pour ne pas avoir besoin de run le code : https://amirine.streamlit.app/
+
 ![App](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
 
 
